@@ -1,14 +1,14 @@
 ## Olá, eu sou o Willian Ayres 👋
 <br />
 
-- 🔭 Hoje sou Analista de Qualidade Junio da Alta Rail Technology
-- 🔭 Também sou Desenvolvedor Full-Stack da Shift AW
-- 👯 Acesse: https://www.shiftaw.com.br
+- 💀 Hoje sou Analista de Qualidade Junio da Alta Rail Technology
+- 💻 Também sou Desenvolvedor Full-Stack da Shift AW
+- 🌐 Acesse: https://www.shiftaw.com.br
 - 💬 Me pergunte sobre PHP, JavaScript, ReactJS.
 - 📫 Contate-me no e-mail: willian@shiftaw.com.br
 - 😄 Pronouns: Ele / Dele
 
-[Acessa já meu currículo - ](https://github.com/willianayres/curriculum)
+[Acessa já meu currículo](https://github.com/willianayres/curriculum)
 
 <br />
 
