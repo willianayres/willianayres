@@ -39,10 +39,10 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 	
-<div align="center">
+<div align="center" width="10px">
   <br>
   <a href="https://github.com/willianayres/willianayres/blob/main/header.svg">
-    <img src="./header.svg" width="100%" height="300" alt="Click to see the source">
+    <img src="./header.svg" width="100%" height="100px" alt="Click to see the source">
   </a>
   <br>
 </div>
