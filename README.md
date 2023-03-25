@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/willianayres">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=willianayres&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianayres&layout=compact=&langs_count=16&theme=dracula" />
+    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=willianayres&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
+    <img height="180em" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianayres&layout=compact=&langs_count=16&theme=dracula" />
 </div>
 
 <div><br />
