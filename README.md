@@ -41,7 +41,7 @@
 	
 <div align="center" width="10px">
   <br>
-  <a href="https://www.shiftaw.com.br">
+  <a href="https://www.shiftaw.com.br" target="_blank">
     <img src="./header.svg" width="100%" height="auto" alt="Click to see the source">
   </a>
   <br>
