@@ -8,6 +8,8 @@
 - 📫 Contate-me no e-mail: willian@shiftaw.com.br
 - 😄 Pronouns: Ele / Dele
 
+[Acessa já meu currículo - ](https://github.com/willianayres/curriculum)
+
 <br />
 
 <div>
