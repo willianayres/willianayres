@@ -41,11 +41,10 @@
 	
 <div align="center" width="10px">
   <br>
-  <a href="https://github.com/willianayres/willianayres/blob/main/header.svg">
+  <a href="https://www.shiftaw.com.br">
     <img src="./header.svg" width="100%" height="auto" alt="Click to see the source">
   </a>
   <br>
 </div>
 
 <br /><br /><br /><br /><br /><br />
-Explanation: https://css-tricks.com/custom-styles-in-github-readmes/
