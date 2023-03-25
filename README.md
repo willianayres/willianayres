@@ -7,8 +7,7 @@
 - 💬 Me pergunte sobre PHP, JavaScript, ReactJS.
 - 📫 Contate-me no e-mail: willian@shiftaw.com.br
 - 😄 Pronouns: Ele / Dele
-
-[Acessa já meu currículo](https://github.com/willianayres/curriculum)
+- 📃 [Acessa já meu currículo](https://github.com/willianayres/curriculum)
 
 <br />
 
