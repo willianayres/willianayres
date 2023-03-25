@@ -2,18 +2,18 @@
 <br />
 
 - 💀 Hoje sou Analista de Qualidade Junio da Alta Rail Technology
-- 💻 Também sou Desenvolvedor Full-Stack da Shift AW
+- 💻 Desenvolvedor Full-Stack da Shift AW
 - 🌐 Acesse: https://www.shiftaw.com.br
 - 💬 Me pergunte sobre PHP, JavaScript, ReactJS.
 - 📫 Contate-me no e-mail: willian@shiftaw.com.br
 - 😄 Pronouns: Ele / Dele
-- 📃 [Acessa já meu currículo](https://github.com/willianayres/curriculum)
+- 📃 [Acesse já meu currículo no GitHub](https://github.com/willianayres/curriculum)
 
 <br />
 
 <div>
   <a href="https://github.com/willianayres">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianayres&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=willianayres&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianayres&layout=compact=&langs_count=16&theme=dracula" />
 </div>
 
