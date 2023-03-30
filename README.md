@@ -1,7 +1,7 @@
 ## Olá, eu sou o Willian Ayres 👋
 <br />
 
-- 💀 Hoje sou Analista de Qualidade Junio da Alta Rail Technology
+- 💀 Hoje sou Analista de Qualidade Junior da Alta Rail Technology
 - 💻 Desenvolvedor Full-Stack da Shift AW
 - 🌐 Acesse: https://www.shiftaw.com.br
 - 💬 Me pergunte sobre PHP, JavaScript, ReactJS.
@@ -13,32 +13,39 @@
 
 <div>
   <a href="https://github.com/willianayres">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=willianayres&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
-    <img height="180em" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianayres&layout=compact=&langs_count=16&theme=dracula" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=willianayres&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
+    <br />
+    <br />
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianayres&layout=compact=&langs_count=16&theme=dracula" />
 </div>
+
+<br />	
 
 <div><br />
   <img align="center" alt="Willian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Willian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Willian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Willian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Willian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" />
-	<img align="center" alt="Willian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-
-  <img align="center" alt="Willian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Willian-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  <img align="center" alt="Willian-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Willian-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Willian-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Willian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-	
-  <img align="center" alt="Willian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-  <img align="center" alt="Willian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" />
-  <img align="right" alt="Willian-Yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/82543058958168872/hi.gif" />
-  <img align="center" alt="Willian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="Willian-MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" />
+  <img align="center" alt="Willian-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Willian-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Willian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+  <img align="center" alt="Willian-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" />
+  <img align="center" alt="Willian-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="Willian-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+	<img align="center" alt="Willian-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Willian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
 	
   <img align="center" alt="Willian-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Willian-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img align="center" alt="Willian-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
 	
   <img align="center" alt="Willian-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
-  <img align="center" alt="Willian-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" />
+  <img align="center" alt="Willian-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" />
+  <img align="center" alt="Willian-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" />
 </div>
 
 ##
@@ -53,10 +60,10 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 	
-<div align="center" width="10px">
+<div align="center">
   <br>
   <a href="https://www.shiftaw.com.br" target="_blank">
-    <img src="./header.svg" width="100%" height="auto" alt="Click to see the source">
+    <img src="./header.svg" width="50%" height="auto" alt="Click to see the source">
   </a>
   <br>
 </div>
