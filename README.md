@@ -27,7 +27,6 @@
   <a href="https://instagram.com/willjoris" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5541996372502&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/willian-j-ayres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://www.shiftaw.com.br" target="_blank"><img src="https://img.shields.io/badge/website-ab48e3?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a>
 </div>
 
 <div><br />
