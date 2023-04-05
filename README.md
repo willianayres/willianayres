@@ -3,7 +3,6 @@
 
 - 💀 Hoje sou Analista de Qualidade Junior da Alta Rail Technology
 - 💻 Desenvolvedor Full-Stack da Shift AW
-- 🌐 Acesse: https://www.shiftaw.com.br
 - 💬 Me pergunte sobre PHP, JavaScript, ReactJS.
 - 📫 Contate-me no e-mail: willian@shiftaw.com.br
 - 😄 Pronomes: Ele / Dele
@@ -64,13 +63,5 @@
 ##
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-	
-<div align="center">
-  <br>
-  <a href="https://www.shiftaw.com.br" target="_blank">
-    <img src="./header.svg" width="50%" height="auto" alt="Click to see the source">
-  </a>
-  <br>
-</div>
 
 <br /><br />
