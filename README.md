@@ -4,7 +4,7 @@
 - 💀 Hoje sou Analista de Qualidade Junior da Alta Rail Technology
 - 💻 Desenvolvedor Full-Stack da Shift AW
 - 💬 Me pergunte sobre PHP, JavaScript, ReactJS.
-- 📫 Contate-me no e-mail: willian@shiftaw.com.br
+- 📫 Contate-me no e-mail: will.joris@gmail.com
 - 😄 Pronomes: Ele / Dele
 - 📃 [Acesse já meu currículo no GitHub](https://github.com/willianayres/curriculum)
 
