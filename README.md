@@ -2,7 +2,7 @@
 <br />
 
 - 💀 Hoje sou Analista de Qualidade Junior da Alta Rail Technology
-- 💻 Desenvolvedor Full-Stack da Shift AW
+- 💻 Desenvolvedor Full-Stack Autônomo.
 - 💬 Me pergunte sobre PHP, JavaScript, ReactJS.
 - 📫 Contate-me no e-mail: will.joris@gmail.com
 - 😄 Pronomes: Ele / Dele
