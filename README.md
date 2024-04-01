@@ -15,7 +15,6 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=willianayres&show_icons=true&theme=dracula&include_all_commits&count_private=true" />
     <br />
     <br />
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianayres&layout=compact=&langs_count=16&theme=dracula" />
 </div>
 
 <br />	
